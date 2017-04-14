@@ -6,7 +6,7 @@ statements constructed from that data that were used to build a repository of te
 data once the first version of the PharmGenius schema was built in phpmyadmin.
 
 pharm_genius schema - PROD.sql - the production version of the databaes containing only
-a user account for Dr. Ravi Patel. A blank slate.
+a user account for Dr. Ravi Patel. A blank slate. username: Ra_vee password: pharmadmin
 
 pharm_genius schema - TEST.sql - the development version of the database. Contains a good
 amount of data with which developers can test site functionality.
